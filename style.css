@@ -222,6 +222,7 @@ ul {
     padding: 20px;
     display: grid;
     grid-template-rows: 1fr 4fr 1fr;
+    box-shadow: 5px 4px 5px rgba(187, 187, 187, 0.2);
   }
 
   .card>.heading {
@@ -268,6 +269,8 @@ ul {
     background-color: white;
     border-radius: 10px;
     padding: 5px 20px 20px 20px;
+    box-shadow: 5px 4px 5px rgba(187, 187, 187, 0.2);
+
   }
 
   .box-2,.box-3 {
